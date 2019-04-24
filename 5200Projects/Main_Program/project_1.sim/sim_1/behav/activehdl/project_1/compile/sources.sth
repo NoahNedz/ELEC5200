@@ -1,0 +1,22 @@
+[Files List]
+C:\Aldec\Active-HDL-10.5a\vlib\std/src/standard.vhd=S
+C:\Aldec\Active-HDL-10.5a\vlib\std/src/textio.vhd=S
+C:\Aldec\Active-HDL-10.5a\vlib\ieee/src/std_logic_1164.vhdl=S
+C:\Aldec\Active-HDL-10.5a\vlib\ieee/src/std_logic_1164-body.vhdl=S
+C:\Aldec\Active-HDL-10.5a\vlib\ieee/src/numeric_std.vhdl=S
+C:\Aldec\Active-HDL-10.5a\vlib\ieee/src/numeric_std-body.vhdl=S
+C:\Aldec\Active-HDL-10.5a\vlib\ieee/src/arith_p.vhd=S
+C:\Aldec\Active-HDL-10.5a\vlib\ieee/src/arith_b.vhd=S
+C:\Aldec\Active-HDL-10.5a\vlib\ieee/src/unsigned_p.vhd=S
+C:\Aldec\Active-HDL-10.5a\vlib\ieee/src/unsigned_b.vhd=S
+H:\Documents\5200Projects\project_1/project_1.srcs/sources_1/new/MAINMEM.vhd=S
+H:\Documents\5200Projects\project_1/project_1.srcs/sources_1/new/REGFILE.vhd=S
+H:\Documents\5200Projects\project_1/project_1.srcs/sources_1/new/PCREG.vhd=S
+H:\Documents\5200Projects\project_1/project_1.srcs/sources_1/new/INSTRMEM.vhd=S
+H:\Documents\5200Projects\project_1/project_1.srcs/sources_1/new/ALU.vhd=S
+H:\Documents\5200Projects\project_1/project_1.srcs/sources_1/new/SIGN2.vhd=S
+H:\Documents\5200Projects\project_1/project_1.srcs/sources_1/new/SIGN1.vhd=S
+H:\Documents\5200Projects\project_1/project_1.srcs/sources_1/new/REGMUX.vhd=S
+H:\Documents\5200Projects\project_1/project_1.srcs/sources_1/new/CONTROL.vhd=S
+H:\Documents\5200Projects\project_1/project_1.srcs/sources_1/new/ADD.vhd=S
+H:\Documents\5200Projects\project_1/project_1.srcs/sources_1/new/main.vhd=S

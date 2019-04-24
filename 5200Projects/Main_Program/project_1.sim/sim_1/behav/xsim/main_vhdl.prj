@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/new/ADD.vhd" \
+"../../../../project_1.srcs/sources_1/new/ALU.vhd" \
+"../../../../project_1.srcs/sources_1/new/CONTROL.vhd" \
+"../../../../project_1.srcs/sources_1/new/INSTRMEM.vhd" \
+"../../../../project_1.srcs/sources_1/new/MAINMEM.vhd" \
+"../../../../project_1.srcs/sources_1/new/PCREG.vhd" \
+"../../../../project_1.srcs/sources_1/new/REGFILE.vhd" \
+"../../../../project_1.srcs/sources_1/new/REGMUX.vhd" \
+"../../../../project_1.srcs/sources_1/new/SIGN1.vhd" \
+"../../../../project_1.srcs/sources_1/new/SIGN2.vhd" \
+"../../../../project_1.srcs/sources_1/new/main.vhd" \
+
+# Do not sort compile order
+nosort

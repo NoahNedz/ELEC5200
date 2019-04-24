@@ -1,0 +1,143 @@
+timestamp=1555711994239
+
+[~A]
+ModifyID=1
+Version=74
+
+[add]
+A/behavioral=A/Behavioral 21|../../../../../../../../project_1.srcs/sources_1/new/ADD.vhd|16|1*0
+BinI32/behavioral=3*0
+I=0*808
+I/behavioral=I/Behavioral 0*1826
+M=11|0|ve1|1555711993219|../../../../../../../../project_1.srcs/sources_1/new/ADD.vhd|0*223*0x7e60cc5293698f71d0d7e4c1439f40599e7336a8|0*691*0xaeff33d0d327e4f66feab22160c8fa0a
+M/behavioral=M/Behavioral 21|0|ve1|1555711993233|../../../../../../../../project_1.srcs/sources_1/new/ADD.vhd|0*1121*0x7ebf9e354ccde0efe1751463bb7acb509204310c|0*1695*0x32e4393d7cc64b8bca4db8dc7d4f247c
+R=../../../../../../../../project_1.srcs/sources_1/new/ADD.vhd|6
+Version=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|15dcaa1a973fe2c825920587c4268da72982353ea103546f42615983514e8eae
+Version/behavioral=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff44d67bea54da3a8956cfe3f8b96a40cbe
+
+[alu]
+A/behavioral=A/Behavioral 21|../../../../../../../../project_1.srcs/sources_1/new/ALU.vhd|17|1*1484
+BinI32/behavioral=3*456
+I=0*2956
+I/behavioral=I/Behavioral 0*4602
+M=11|0|ve1|1555711993342|../../../../../../../../project_1.srcs/sources_1/new/ALU.vhd|0*2376*0x0e8929181c2617624d3581ce5141413c19c02b20|0*2839*0xaeff33d0d327e4f66feab22160c8fa0a
+M/behavioral=M/Behavioral 21|0|ve1|1555711993355|../../../../../../../../project_1.srcs/sources_1/new/ALU.vhd|0*3269*0x3526bf1941a663a4b8889933fe6078964e260d39|0*4471*0x32e4393d7cc64b8bca4db8dc7d4f247c
+R=../../../../../../../../project_1.srcs/sources_1/new/ALU.vhd|6
+Version=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|fdc9c85601beb4171a6a25c637e2168e8f4eee55a3301416251bc5c052b35af1
+Version/behavioral=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff46d46047ba3aab59b4a40e8dc7ced248c
+
+[control]
+A/behavioral=A/Behavioral 21|../../../../../../../../project_1.srcs/sources_1/new/CONTROL.vhd|26|1*3228
+BinI32/behavioral=3*1699
+I=0*6114
+I/behavioral=I/Behavioral 0*10991
+M=11|0|ve1|1555711993431|../../../../../../../../project_1.srcs/sources_1/new/CONTROL.vhd|0*5224*0xfa8e33adf9daddfbdadfe4a463d423ec139a3969|0*5989*0xaeff33d0d327e4f66feab22160c8fa0a
+M/behavioral=M/Behavioral 21|0|ve1|1555711993444|../../../../../../../../project_1.srcs/sources_1/new/CONTROL.vhd|0*6431*0xcb95d48f58c12ebeac0d84b1ca791a3ae41613eb|0*10852*0x32e4393d7cc64b8bca4db8dc7d4f247c
+R=../../../../../../../../project_1.srcs/sources_1/new/CONTROL.vhd|6
+Version=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|f2cabf5e9d8860133c44841e25d9d38726527262ddaa47cb266f3a3c4d9b973af417b5b8562823b2f8a406e25ff4c87b
+Version/behavioral=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff479895bab61eb780e739fa52c677b408a
+
+[instrmem]
+A/behavioral=A/Behavioral 21|../../../../../../../../project_1.srcs/sources_1/new/INSTRMEM.vhd|12|1*7169
+BinI32/behavioral=3*3297
+I=0*12010
+I/behavioral=I/Behavioral 0*13131
+M=11|0|ve1|1555711993520|../../../../../../../../project_1.srcs/sources_1/new/INSTRMEM.vhd|0*11533*0x487857d368ee9918d8f70b40c2731a9642ec2ce8|0*11883*0xaeff33d0d327e4f66feab22160c8fa0a
+M/behavioral=M/Behavioral 21|0|ve1|1555711993533|../../../../../../../../project_1.srcs/sources_1/new/INSTRMEM.vhd|0*12294*0x6ecbc819eb8b8e776921f070e504576e5b62c762|0*12990*0x32e4393d7cc64b8bca4db8dc7d4f247c
+R=../../../../../../../../project_1.srcs/sources_1/new/INSTRMEM.vhd|5
+Version=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|0d1e72a120b4469db711aa3fff28df3c3de928612a4f300a0130f3a4cd5eb21f09ffdf5eaaf1eac87d8e11d3c6f8dca7
+Version/behavioral=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff4a6fb0d9eff6384a270e16ded328c7a9c
+
+[main]
+A/behavioral=A/Behavioral 21|../../../../../../../../project_1.srcs/sources_1/new/main.vhd|12|1*18288
+I=0*26740
+I/behavioral=I/Behavioral 0*32098
+M=11|0|ve1|1555711994148|../../../../../../../../project_1.srcs/sources_1/new/main.vhd|0*26367*0x85bdee4be614ef4847ebc0d15e51bc0d0f3d0a36|0*26621*0xaeff33d0d327e4f66feab22160c8fa0a
+M/behavioral=M/Behavioral 21|0|ve1|1555711994162|../../../../../../../../project_1.srcs/sources_1/new/main.vhd|0*27054*0x62ee1893bd7305411a6ee2aefff08a756a1a498e|0*31965*0x32e4393d7cc64b8bca4db8dc7d4f247c
+R=../../../../../../../../project_1.srcs/sources_1/new/main.vhd|8
+Version=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|a10d1194a18e37435e6d6f0ad7feedab8d2b3a35bc490fb9d911a168403cf026
+Version/behavioral=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff4a488aa5cedd34a2bca50b6e2e76b0bad
+
+[mainmem]
+A/behavioral=A/Behavioral 21|../../../../../../../../project_1.srcs/sources_1/new/MAINMEM.vhd|16|1*8825
+BinI32/behavioral=3*3741
+I=0*14225
+I/behavioral=I/Behavioral 0*15489
+M=11|0|ve1|1555711993609|../../../../../../../../project_1.srcs/sources_1/new/MAINMEM.vhd|0*13657*0x85f02ecfa02285b1a4e6bdce774a6630e5726732|0*14100*0xaeff33d0d327e4f66feab22160c8fa0a
+M/behavioral=M/Behavioral 21|0|ve1|1555711993622|../../../../../../../../project_1.srcs/sources_1/new/MAINMEM.vhd|0*14508*0x817036bc344d2d4bd117e1a47d0a9fc9b75e55e6|0*15350*0x32e4393d7cc64b8bca4db8dc7d4f247c
+R=../../../../../../../../project_1.srcs/sources_1/new/MAINMEM.vhd|5
+Version=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|91633ca59f7350e279095eb9553d645626527262ddaa47cb266f3a3c4d9b973a0049847695f817e4ee336700e8ba2f6c
+Version/behavioral=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff47e3564c7e79db0f46ca87706a7805370
+
+[pcreg]
+A/behavioral=A/Behavioral 21|../../../../../../../../project_1.srcs/sources_1/new/PCREG.vhd|13|1*10584
+BinI32/behavioral=3*4440
+I=0*16466
+I/behavioral=I/Behavioral 0*17388
+M=11|0|ve1|1555711993699|../../../../../../../../project_1.srcs/sources_1/new/PCREG.vhd|0*15984*0x1324c067df3607e6304dc2cbe20dacffa1b274e6|0*16345*0xaeff33d0d327e4f66feab22160c8fa0a
+M/behavioral=M/Behavioral 21|0|ve1|1555711993713|../../../../../../../../project_1.srcs/sources_1/new/PCREG.vhd|0*16781*0xa6b0ef6fd4170ca32849c7f17a642f908b321be7|0*17253*0x32e4393d7cc64b8bca4db8dc7d4f247c
+R=../../../../../../../../project_1.srcs/sources_1/new/PCREG.vhd|6
+Version=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|1f9466e13140b6344d793a64b44e5b8160e0d8f397309d98e7ae071bd594f04c
+Version/behavioral=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff41b2b59a54f7565fdb2f1636493514b72
+
+[regfile]
+A/behavioral=A/Behavioral 21|../../../../../../../../project_1.srcs/sources_1/new/REGFILE.vhd|19|1*11823
+BinI32/behavioral=3*4689
+I=0*18727
+I/behavioral=I/Behavioral 0*20274
+M=11|0|ve1|1555711993786|../../../../../../../../project_1.srcs/sources_1/new/REGFILE.vhd|0*17978*0xe2b3e466fd13b627d00cd9cbea261c0c7915ec68|0*18602*0xaeff33d0d327e4f66feab22160c8fa0a
+M/behavioral=M/Behavioral 21|0|ve1|1555711993799|../../../../../../../../project_1.srcs/sources_1/new/REGFILE.vhd|0*19010*0xefdb95cad886623d1775f2334c8381eee84a6729|0*20135*0x32e4393d7cc64b8bca4db8dc7d4f247c
+R=../../../../../../../../project_1.srcs/sources_1/new/REGFILE.vhd|5
+Version=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|eae5b70d9b278c889f76eca13722f75226527262ddaa47cb266f3a3c4d9b973abd7033b165b77a61a247ab3f301cea8e
+Version/behavioral=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff4a5449a11844e6b90df62a49800035bf4
+
+[regmux]
+A/behavioral=A/Behavioral 21|../../../../../../../../project_1.srcs/sources_1/new/REGMUX.vhd|16|1*14800
+BinI32/behavioral=3*5392
+I=0*21343
+I/behavioral=I/Behavioral 0*22203
+M=11|0|ve1|1555711993874|../../../../../../../../project_1.srcs/sources_1/new/REGMUX.vhd|0*20792*0xd27a75bd158a21bc34d26d30f410f0f32eed2bf8|0*21220*0xaeff33d0d327e4f66feab22160c8fa0a
+M/behavioral=M/Behavioral 21|0|ve1|1555711993887|../../../../../../../../project_1.srcs/sources_1/new/REGMUX.vhd|0*21659*0x26fad33fbeb6dd2707cba26b2b9f67980edd05a4|0*22066*0x32e4393d7cc64b8bca4db8dc7d4f247c
+R=../../../../../../../../project_1.srcs/sources_1/new/REGMUX.vhd|7
+Version=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|41aa37d4db503ea663640812fa00c8bd73b7745290962469bfb92e7594a82072
+Version/behavioral=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff46b2820185c6cae71ee26d961b4e5cf61
+
+[sign1]
+A/behavioral=A/Behavioral 21|../../../../../../../../project_1.srcs/sources_1/new/SIGN1.vhd|13|1*15986
+BinI32/behavioral=3*5630
+I=0*23230
+I/behavioral=I/Behavioral 0*24133
+M=11|0|ve1|1555711993959|../../../../../../../../project_1.srcs/sources_1/new/SIGN1.vhd|0*22741*0x2a590534bbb347b67e1dcd20c13c9be9e3b0df5b|0*23109*0xaeff33d0d327e4f66feab22160c8fa0a
+M/behavioral=M/Behavioral 21|0|ve1|1555711993971|../../../../../../../../project_1.srcs/sources_1/new/SIGN1.vhd|0*23545*0xb71d020323b934ba461c754d51f73b8ec39e7b85|0*23998*0x32e4393d7cc64b8bca4db8dc7d4f247c
+R=../../../../../../../../project_1.srcs/sources_1/new/SIGN1.vhd|6
+Version=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|0891164c10060508005ba74ea4b966379b03f638500933c4ff01ffce8ad85eef
+Version/behavioral=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff4e9279a8fdc72072eb0551094399c5ac3
+
+[sign2]
+A/behavioral=A/Behavioral 21|../../../../../../../../project_1.srcs/sources_1/new/SIGN2.vhd|12|1*17183
+BinI32/behavioral=3*6055
+I=0*25122
+I/behavioral=I/Behavioral 0*25927
+M=11|0|ve1|1555711994059|../../../../../../../../project_1.srcs/sources_1/new/SIGN2.vhd|0*24659*0x198a019813b865e920fefa37295434b7c9a41780|0*25001*0xaeff33d0d327e4f66feab22160c8fa0a
+M/behavioral=M/Behavioral 21|0|ve1|1555711994072|../../../../../../../../project_1.srcs/sources_1/new/SIGN2.vhd|0*25437*0x9e2f8f73dd6ab8e3afcf5464d33c3e8e03ee9ef9|0*25792*0x32e4393d7cc64b8bca4db8dc7d4f247c
+R=../../../../../../../../project_1.srcs/sources_1/new/SIGN2.vhd|6
+Version=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|4b7b8ec9bc8ab08dd5b9cd637da22371bb61a6ad83d11fe6ed5bf2e3ef89d597
+Version/behavioral=10.5a.12.6914 (Windows)|00000004789c53d0b534060001b000ba|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff43fed130b6c3412c701124b9734e5fbf8
+
+[~MFT]
+0=77|0xil_defaultlib.mgf|32098|0
+1=11|1xil_defaultlib.mgf|18288|0
+3=10|3xil_defaultlib.mgf|6055|0
+
+[~U]
+add=ADD 11|0*0|
+alu=ALU 11|0*2150|
+control=CONTROL 11|0*4926|
+instrmem=INSTRMEM 11|0*11319|
+main=11|0*26253|
+mainmem=MAINMEM 11|0*13426|
+pcreg=PCREG 11|0*15783|
+regfile=REGFILE 11|0*17714|
+regmux=REGMUX 11|0*20568|
+sign1=SIGN1 11|0*22530|
+sign2=SIGN2 11|0*24459|

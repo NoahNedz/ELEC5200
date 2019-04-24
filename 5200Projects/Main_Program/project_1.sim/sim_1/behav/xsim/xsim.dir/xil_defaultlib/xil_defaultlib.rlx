@@ -1,0 +1,18 @@
+0.6
+2018.1
+Apr  4 2018
+19:30:32
+H:/Documents/5200Projects/project_1/project_1.srcs/sim_1/new/addBench.vhd,1552088165,vhdl,,,,addbench,,,,,,,,
+H:/Documents/5200Projects/project_1/project_1.srcs/sim_1/new/aluBench.vhd,1552089503,vhdl,,,,alubench,,,,,,,,
+H:/Documents/5200Projects/project_1/project_1.srcs/sim_1/new/mainBench.vhd,1555723471,vhdl,,,,mainbench,,,,,,,,
+H:/Documents/5200Projects/project_1/project_1.srcs/sources_1/new/ADD.vhd,1555722754,vhdl,,,,add,,,,,,,,
+H:/Documents/5200Projects/project_1/project_1.srcs/sources_1/new/ALU.vhd,1555723939,vhdl,,,,alu,,,,,,,,
+H:/Documents/5200Projects/project_1/project_1.srcs/sources_1/new/CONTROL.vhd,1555722944,vhdl,,,,control,,,,,,,,
+H:/Documents/5200Projects/project_1/project_1.srcs/sources_1/new/INSTRMEM.vhd,1555722511,vhdl,,,,instrmem,,,,,,,,
+H:/Documents/5200Projects/project_1/project_1.srcs/sources_1/new/MAINMEM.vhd,1555718756,vhdl,,,,mainmem,,,,,,,,
+H:/Documents/5200Projects/project_1/project_1.srcs/sources_1/new/PCREG.vhd,1555538904,vhdl,,,,pcreg,,,,,,,,
+H:/Documents/5200Projects/project_1/project_1.srcs/sources_1/new/REGFILE.vhd,1555719586,vhdl,,,,regfile,,,,,,,,
+H:/Documents/5200Projects/project_1/project_1.srcs/sources_1/new/REGMUX.vhd,1555707210,vhdl,,,,regmux,,,,,,,,
+H:/Documents/5200Projects/project_1/project_1.srcs/sources_1/new/SIGN1.vhd,1555727467,vhdl,,,,sign1,,,,,,,,
+H:/Documents/5200Projects/project_1/project_1.srcs/sources_1/new/SIGN2.vhd,1554265561,vhdl,,,,sign2,,,,,,,,
+H:/Documents/5200Projects/project_1/project_1.srcs/sources_1/new/main.vhd,1555712555,vhdl,,,,main,,,,,,,,

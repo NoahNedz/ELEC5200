@@ -1,0 +1,46 @@
+Active-HDL 10.5a.12.6914 2019-04-19 17:13:48
+
+Elaboration top modules:
+Architecture                  Behavioral(main)
+
+
+------------------------------------------------------------------------------------------------
+Entity   | Architecture | Library        | Info | Compiler Version        | Compilation Options
+------------------------------------------------------------------------------------------------
+main     | Behavioral   | xil_defaultlib |      | 10.5a.12.6914 (Windows) |  -93
+ADD      | Behavioral   | xil_defaultlib |      | 10.5a.12.6914 (Windows) |  -93
+CONTROL  | Behavioral   | xil_defaultlib |      | 10.5a.12.6914 (Windows) |  -93
+REGMUX   | Behavioral   | xil_defaultlib |      | 10.5a.12.6914 (Windows) |  -93
+SIGN1    | Behavioral   | xil_defaultlib |      | 10.5a.12.6914 (Windows) |  -93
+SIGN2    | Behavioral   | xil_defaultlib |      | 10.5a.12.6914 (Windows) |  -93
+ALU      | Behavioral   | xil_defaultlib |      | 10.5a.12.6914 (Windows) |  -93
+INSTRMEM | Behavioral   | xil_defaultlib |      | 10.5a.12.6914 (Windows) |  -93
+PCREG    | Behavioral   | xil_defaultlib |      | 10.5a.12.6914 (Windows) |  -93
+REGFILE  | Behavioral   | xil_defaultlib |      | 10.5a.12.6914 (Windows) |  -93
+MAINMEM  | Behavioral   | xil_defaultlib |      | 10.5a.12.6914 (Windows) |  -93
+------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+VHDL Package            | Library        | Info | Compiler Version        | Compilation Options
+------------------------------------------------------------------------------------------------
+standard                | std            |      |                         | <unavailable>
+TEXTIO                  | std            |      |                         | <unavailable>
+std_logic_1164          | ieee           |      |                         | <unavailable>
+NUMERIC_STD             | ieee           |      |                         | <unavailable>
+std_logic_arith         | ieee           |      |                         | <unavailable>
+STD_LOGIC_UNSIGNED      | ieee           |      |                         | <unavailable>
+------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+Library                 | Comment
+------------------------------------------------------------------------------------------------
+ieee                    | Standard IEEE packages library
+std                     | Standard VHDL library
+xil_defaultlib          | None
+------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -asdb +access +r +m+main -L secureip -L xil_defaultlib -O5 xil_defaultlib.main
+
+
+The performance of simulation is reduced. Version EDU Edition

@@ -1,0 +1,36 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=xil_defaultlib
+[Library]
+project_1=.\project_1\project_1.lib
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+[LocalVhdlSets]
+CompileWithDebug=0
+[$LibMap$]
+project_1=.
+work=.
+xil_defaultlib=.
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=main|Behavioral|0 
+ShowHide=ShowTopLevel
+Selected=

@@ -1,0 +1,12 @@
+
+{ 
+    crc :  4573543571881161480  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 1cfbd4dea6f44aedb0f818b4c02b8218 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot aluBench_behav xil_defaultlib.aluBench" , 
+    buildDate : "Apr  4 2018" , 
+    buildTime : "19:30:32" , 
+    linkCmd : "C:\\Xilinx\\Vivado\\2018.1\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/aluBench_behav/xsimk.exe\"   \"xsim.dir/aluBench_behav/obj/xsim_0.win64.obj\" \"xsim.dir/aluBench_behav/obj/xsim_1.win64.obj\" \"C:\\Xilinx\\Vivado\\2018.1\\lib\\win64.o\\\\librdi_simulator_kernel.dll\"  \"C:\\Xilinx\\Vivado\\2018.1\\lib\\win64.o\\\\librdi_simbridge_kernel.dll\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

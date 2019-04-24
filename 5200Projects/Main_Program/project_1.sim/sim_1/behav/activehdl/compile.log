@@ -1,0 +1,38 @@
+# Warning: Library work already exists
+# Warning: Library xil_defaultlib already exists
+# Library contents cleared.
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: H:\Documents\5200Projects\project_1\project_1.srcs\sources_1\new\ADD.vhd
+# Compile Entity "ADD"
+# Compile Architecture "Behavioral" of Entity "ADD"
+# File: H:\Documents\5200Projects\project_1\project_1.srcs\sources_1\new\ALU.vhd
+# Compile Entity "ALU"
+# Compile Architecture "Behavioral" of Entity "ALU"
+# File: H:\Documents\5200Projects\project_1\project_1.srcs\sources_1\new\CONTROL.vhd
+# Compile Entity "CONTROL"
+# Compile Architecture "Behavioral" of Entity "CONTROL"
+# File: H:\Documents\5200Projects\project_1\project_1.srcs\sources_1\new\INSTRMEM.vhd
+# Compile Entity "INSTRMEM"
+# Compile Architecture "Behavioral" of Entity "INSTRMEM"
+# File: H:\Documents\5200Projects\project_1\project_1.srcs\sources_1\new\MAINMEM.vhd
+# Compile Entity "MAINMEM"
+# Compile Architecture "Behavioral" of Entity "MAINMEM"
+# File: H:\Documents\5200Projects\project_1\project_1.srcs\sources_1\new\PCREG.vhd
+# Compile Entity "PCREG"
+# Compile Architecture "Behavioral" of Entity "PCREG"
+# File: H:\Documents\5200Projects\project_1\project_1.srcs\sources_1\new\REGFILE.vhd
+# Compile Entity "REGFILE"
+# Compile Architecture "Behavioral" of Entity "REGFILE"
+# File: H:\Documents\5200Projects\project_1\project_1.srcs\sources_1\new\REGMUX.vhd
+# Compile Entity "REGMUX"
+# Compile Architecture "Behavioral" of Entity "REGMUX"
+# File: H:\Documents\5200Projects\project_1\project_1.srcs\sources_1\new\SIGN1.vhd
+# Compile Entity "SIGN1"
+# Compile Architecture "Behavioral" of Entity "SIGN1"
+# File: H:\Documents\5200Projects\project_1\project_1.srcs\sources_1\new\SIGN2.vhd
+# Compile Entity "SIGN2"
+# Compile Architecture "Behavioral" of Entity "SIGN2"
+# File: H:\Documents\5200Projects\project_1\project_1.srcs\sources_1\new\main.vhd
+# Compile Entity "main"
+# Compile Architecture "Behavioral" of Entity "main"
+# Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]

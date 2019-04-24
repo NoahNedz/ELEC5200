@@ -1,0 +1,23 @@
+1
+~E 1 "../../../../../../../../project_1.srcs/sources_1/new/ADD.vhd" 6 ADD
+~A 1 "../../../../../../../../project_1.srcs/sources_1/new/ADD.vhd" 16 Behavioral
+~E 1 "../../../../../../../../project_1.srcs/sources_1/new/ALU.vhd" 6 ALU
+~A 1 "../../../../../../../../project_1.srcs/sources_1/new/ALU.vhd" 17 Behavioral
+~E 1 "../../../../../../../../project_1.srcs/sources_1/new/CONTROL.vhd" 6 CONTROL
+~A 1 "../../../../../../../../project_1.srcs/sources_1/new/CONTROL.vhd" 26 Behavioral
+~E 1 "../../../../../../../../project_1.srcs/sources_1/new/INSTRMEM.vhd" 5 INSTRMEM
+~A 1 "../../../../../../../../project_1.srcs/sources_1/new/INSTRMEM.vhd" 12 Behavioral
+~E 1 "../../../../../../../../project_1.srcs/sources_1/new/main.vhd" 8 main
+~A 1 "../../../../../../../../project_1.srcs/sources_1/new/main.vhd" 12 Behavioral
+~E 1 "../../../../../../../../project_1.srcs/sources_1/new/MAINMEM.vhd" 5 MAINMEM
+~A 1 "../../../../../../../../project_1.srcs/sources_1/new/MAINMEM.vhd" 16 Behavioral
+~E 1 "../../../../../../../../project_1.srcs/sources_1/new/PCREG.vhd" 6 PCREG
+~A 1 "../../../../../../../../project_1.srcs/sources_1/new/PCREG.vhd" 13 Behavioral
+~E 1 "../../../../../../../../project_1.srcs/sources_1/new/REGFILE.vhd" 5 REGFILE
+~A 1 "../../../../../../../../project_1.srcs/sources_1/new/REGFILE.vhd" 19 Behavioral
+~E 1 "../../../../../../../../project_1.srcs/sources_1/new/REGMUX.vhd" 7 REGMUX
+~A 1 "../../../../../../../../project_1.srcs/sources_1/new/REGMUX.vhd" 16 Behavioral
+~E 1 "../../../../../../../../project_1.srcs/sources_1/new/SIGN1.vhd" 6 SIGN1
+~A 1 "../../../../../../../../project_1.srcs/sources_1/new/SIGN1.vhd" 13 Behavioral
+~E 1 "../../../../../../../../project_1.srcs/sources_1/new/SIGN2.vhd" 6 SIGN2
+~A 1 "../../../../../../../../project_1.srcs/sources_1/new/SIGN2.vhd" 12 Behavioral

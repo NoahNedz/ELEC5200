@@ -1,0 +1,14 @@
+[Version]
+Version=10.5a
+[Designs]
+project_1=project_1.adf
+[Settings]
+Active=project_1
+[Expand]
+project_1=1
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
